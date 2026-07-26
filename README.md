@@ -9,5 +9,3 @@ Contents
 - Fixed observer gains
 - BMI/LMI feasibility results
 - Simulation parameters
-
-The dataset reproduces the feasibility comparison reported in Table X of the manuscript.
