@@ -5,7 +5,10 @@ This repository contains the dataset used for the Monte Carlo feasibility study 
 Contents
 
 - Randomly generated system matrices
-- Fixed controller gains
-- Fixed observer gains
-- BMI/LMI feasibility results
+- Controller gains determined by fixed pole placement
+- Observer gains determined by fixed pole placement
+- Feasibility results for the original sufficient condition (Theorem 1)
+- Feasibility results for the Young-relaxed sufficient condition (Theorem 2)
 - Simulation parameters
+
+
